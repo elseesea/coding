@@ -1,0 +1,37 @@
+String search / regex - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search
+
+Arrays - https://javascript.info/array
+
+Why anonymous functions - https://www.quora.com/What-will-be-the-real-time-use-of-anonymous-functions-in-JavaScript-What-is-the-advantage-of-including-them-over-the-normal-ones
+
+Build 15 JS projects - https://www.youtube.com/watch?v=3PHXvlpOkf4&t=28458s
+
+Popular JS Frameworks for 2020 - https://insights.dice.com/2020/07/14/5-great-javascript-frameworks-2020/
+
+Node readline-sync - https://www.npmjs.com/package/readline-sync
+
+Style guide - https://www.w3schools.com/js/js_conventions.asp
+
+JavaScript in 1 Hour - https://www.youtube.com/watch?v=W6NZfCO5SIk
+
+Recursion - https://javascript.info/recursion
+
+Merge sort & recursion - https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060 & https://stackoverflow.com/questions/19072004/understanding-the-recursion-of-mergesort
+
+Beginners tutorial - https://www.bitdegree.org/tutorials/javascript-for-beginners/
+
+Unit testingn - https://medium.com/nonstopio/unit-testing-important-role-in-software-development-1f52f7c810f8
+
+EloquentJavaScript3E.pdf - see Google Drive
+
+JavaScript-for-Kids.pdf - see Google Drive
+
+Java Script basics js-intro.pdf - see Google Drive
+
+Here Are 10 Projects You Can Do To Build Your JavaScript Skills - https://skillcrush.com/blog/projects-you-can-do-with-javascript/
+
+Event bubbling - https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5
+
+LaunchCode textbook (to fork & clone to local drive) - https://github.com/LaunchCodeEducation/intro-to-professional-web-dev
+
+Destructuring assignment - https://javascript.info/destructuring-assignment
