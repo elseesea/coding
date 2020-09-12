@@ -35,3 +35,5 @@ Event bubbling - https://dev.to/shimphillip/handing-javascript-events-efficientl
 LaunchCode textbook (to fork & clone to local drive) - https://github.com/LaunchCodeEducation/intro-to-professional-web-dev
 
 Destructuring assignment - https://javascript.info/destructuring-assignment
+
+DevGuru JavaScript Quick Reference Guide - https://www.devguru.com/content/technologies/javascript/home.html
