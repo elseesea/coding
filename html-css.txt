@@ -1,4 +1,8 @@
-CSS Selectors Made Easy - https://www.youtube.com/watch?v=dcCCOiQ1ZuM
+1. CSS Selectors Made Easy - https://www.youtube.com/watch?v=dcCCOiQ1ZuM
 
-Friendly web development tutorials for complete beginners - https://www.internetingishard.com/
+2. Friendly web development tutorials for complete beginners - https://www.internetingishard.com/
+
+3. Responsive Web Design
+
+	https://www.w3schools.com/html/html_responsive.asp
 
