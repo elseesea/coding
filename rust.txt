@@ -1,0 +1,8 @@
+1. Rust programming language
+
+	https://www.rust-lang.org/
+
+
+2. The Rust Book
+
+	https://doc.rust-lang.org/book/ch00-00-introduction.html
