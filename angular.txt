@@ -1,2 +1,3 @@
 Why Angular is Better than React - https://www.programmingwithjon.com/blog/angular
 
+Adding an Image/Logo in Angular - https://scotch.io/courses/build-your-first-angular-website/adding-an-imagelogo-in-angular
