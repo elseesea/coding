@@ -6,3 +6,7 @@
 
 	https://www.w3schools.com/html/html_responsive.asp
 
+4. Flexbox
+
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
