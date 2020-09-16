@@ -1,4 +1,6 @@
-Software Development Courses - https://alison.com/courses/software-development
+Software Development Courses
+	- https://alison.com/courses/software-development
+	- https://www.edx.org/course/subject/computer-science
 
 Hack your own CS degree for free - https://www.freecodecamp.org/news/how-to-hack-your-own-cs-degree-for-free/
 
