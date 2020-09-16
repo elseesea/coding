@@ -3,3 +3,7 @@
 2. Adding an Image/Logo in Angular - https://scotch.io/courses/build-your-first-angular-website/adding-an-imagelogo-in-angular
 
 3. Pass data from parent to child with input binding - https://angular.io/guide/component-interaction#pass-data-from-parent-to-child-with-input-binding
+
+4. ngFor
+	a. Template syntax & ngFor - https://angular.io/guide/template-syntax#ngFor
+	b. Angular NgFor: Everything you need to know - https://malcoded.com/posts/angular-ngfor/
