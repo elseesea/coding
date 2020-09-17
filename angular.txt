@@ -7,3 +7,7 @@
 4. ngFor
 	a. Template syntax & ngFor - https://angular.io/guide/template-syntax#ngFor
 	b. Angular NgFor: Everything you need to know - https://malcoded.com/posts/angular-ngfor/
+
+5. Dependency injection in Angular
+
+	https://angular.io/guide/dependency-injection
