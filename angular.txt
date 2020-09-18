@@ -14,3 +14,7 @@
 
 6. ngIf
 	a. https://angular.io/guide/built-in-directives#ngif
+
+7. keyup / keydown events
+
+	a. https://www.digitalocean.com/community/tutorials/angular-binding-keyup-keydown-events
