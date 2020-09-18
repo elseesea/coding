@@ -18,3 +18,7 @@
 7. keyup / keydown events
 
 	a. https://www.digitalocean.com/community/tutorials/angular-binding-keyup-keydown-events
+
+8. Angular Change Detection - How Does It Really Work?
+
+	a. https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
