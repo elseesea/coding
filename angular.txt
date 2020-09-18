@@ -5,9 +5,12 @@
 3. Pass data from parent to child with input binding - https://angular.io/guide/component-interaction#pass-data-from-parent-to-child-with-input-binding
 
 4. ngFor
-	a. Template syntax & ngFor - https://angular.io/guide/template-syntax#ngFor
+	a. Template syntax & ngFor - https://angular.io/guide/built-in-directives#ngfor
 	b. Angular NgFor: Everything you need to know - https://malcoded.com/posts/angular-ngfor/
 
 5. Dependency injection in Angular
 
 	https://angular.io/guide/dependency-injection
+
+6. ngIf
+	a. https://angular.io/guide/built-in-directives#ngif
