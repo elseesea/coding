@@ -1,3 +1,9 @@
+Free "learn" a language sites
+	- https://www.learn-c.org/
+	- https://www.learn-cpp.org/
+	- https://www.learnpython.org/
+	- https://www.learn-php.org/
+
 Software Development Courses
 	- https://alison.com/courses/software-development
 	- https://www.edx.org/course/subject/computer-science
