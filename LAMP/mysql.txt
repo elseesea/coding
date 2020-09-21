@@ -1,2 +1,6 @@
-MySql tutorial
+1. MySql tutorial
         - https://www.mysqltutorial.org/
+
+2. Use the source command to load data into the MySQL Server:
+
+	mysql> source c:\temp\mysqlsampledatabase.sql
