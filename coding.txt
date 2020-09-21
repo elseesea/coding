@@ -4,6 +4,9 @@ Free "learn" a language sites
 	- https://www.learnpython.org/
 	- https://www.learn-php.org/
 
+MySql tutorial
+	- https://www.mysqltutorial.org/
+
 Software Development Courses
 	- https://alison.com/courses/software-development
 	- https://www.edx.org/course/subject/computer-science
