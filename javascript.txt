@@ -39,3 +39,7 @@ Destructuring assignment - https://javascript.info/destructuring-assignment
 DevGuru JavaScript Quick Reference Guide - https://www.devguru.com/content/technologies/javascript/home.html
 
 lit-html - An efficient, expressive, extensible HTML templating library for JavaScript - https://lit-html.polymer-project.org/guide
+
+1. How to use a variable for a key in a JavaScript object literal?
+
+	https://www.geeksforgeeks.org/how-to-use-a-variable-for-a-key-in-a-javascript-object-literal/
