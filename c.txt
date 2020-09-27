@@ -1,3 +1,10 @@
 1. How To Compile And Run a C/C++ Code In Linux
+	
+	From https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
+	
+	- cc program-source-code.c -o executable-file-name
+	- gcc program-source-code.c -o executable-file-name
+	- ## assuming that executable-file-name.c exists ##
+		make executable-file-name
+	- g++ program-source-code.c -o executable-file-name
 
-	- https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
