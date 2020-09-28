@@ -1,4 +1,40 @@
-1. How To Compile And Run a C/C++ Code In Linux
+1. Data types
+	From https://www.learn-c.org/en/Variables_and_Types
+	
+	Integers - whole numbers which can be either positive or negative. Use one of the following:
+		char
+		int
+		short
+		long
+		long long
+	Unsigned integers - whole numbers which can only be positive. Use one of the following:
+		unsigned char
+		unsigned int
+		unsigned short
+		unsigned long
+		unsigned long long
+	Floating point numbers - real numbers (numbers with fractions). Use one of the following:
+		float
+		double
+	Structures - will be explained later, in the Structures section.
+	Boolean
+		Note that C does not have a boolean type. Usually, it is defined using the following notation:
+			#define BOOL char
+			#define FALSE 0
+			#define TRUE 1
+	Strings
+		C uses arrays of characters to define strings
+
+2. String concatenation
+	From https://www.programmingsimplified.com/c-program-concatenate-strings
+	
+	strcat(a, b);
+		Appends b to a, & stores result in a.
+		Requires #include <string.h>
+		Does not return a string.
+
+
+99. How To Compile And Run a C/C++ Code In Linux
 	
 	From https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
 	
