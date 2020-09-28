@@ -3,9 +3,12 @@ https://dotnet.microsoft.com/learn
 C# From Beginner To Pro - Write A WindowsUI Style App Form
   https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-awQKp7N6pHekZjFIDZSO9w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 
+Diploma in C# Programming - Revised
+  https://alison.com/course/diploma-in-c-sharp-programming-revised
+
 Learn C#
   https://www.codecademy.com/learn/learn-c-sharp
-  
+
 https://www.udemy.com/course/understandingc/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-xIuoRIHVTDggz1k.ag5f6w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 
 https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-pDPB_Ccy9jMpbuU7prWX2g&utm_medium=udemyads&utm_source=aff-campaign
@@ -24,3 +27,6 @@ C# Basics for Beginners- Learn By Doing (Demo Version)
 
 What is new in C# 6
   https://www.udemy.com/course/what-is-new-in-csharp-6/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-b.dbtjtQwavASvzxrzgmJg&utm_medium=udemyads&utm_source=aff-campaign
+
+Learn C#
+  https://www.learncs.org/
