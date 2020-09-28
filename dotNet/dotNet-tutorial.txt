@@ -1,1 +1,26 @@
 https://dotnet.microsoft.com/learn
+
+C# From Beginner To Pro - Write A WindowsUI Style App Form
+  https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-awQKp7N6pHekZjFIDZSO9w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
+Learn C#
+  https://www.codecademy.com/learn/learn-c-sharp
+  
+https://www.udemy.com/course/understandingc/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-xIuoRIHVTDggz1k.ag5f6w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
+https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-pDPB_Ccy9jMpbuU7prWX2g&utm_medium=udemyads&utm_source=aff-campaign
+
+https://www.coursera.org/learn/introduction-programming-unity?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-EghCAuaAz6Y7_ROA9IIr6Q&siteID=JVFxdTr9V80-EghCAuaAz6Y7_ROA9IIr6Q&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80
+
+https://www.pluralsight.com/courses/csharp-fundamentals-dev?clickid=QLV3dx0wGxyLW1twUx0Mo3b2UkiSAKV%253AU2UxUE0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius
+
+https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-awQKp7N6pHekZjFIDZSO9w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+
+Introduction to TDD in C#
+  https://www.udemy.com/course/intro-tdd/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-UVvZeDVO0SXrC3VfFOq5Ag&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads
+
+C# Basics for Beginners- Learn By Doing (Demo Version)
+  https://www.udemy.com/course/c-sharp-basics-learn-to-code-the-hard-way/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-IY.x.WnBXKUatepNF3qS0A&utm_medium=udemyads&utm_source=aff-campaign
+
+What is new in C# 6
+  https://www.udemy.com/course/what-is-new-in-csharp-6/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-b.dbtjtQwavASvzxrzgmJg&utm_medium=udemyads&utm_source=aff-campaign
