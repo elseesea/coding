@@ -3,6 +3,7 @@ Free "learn" a language sites
 	- https://www.learn-cpp.org/
 	- https://www.learnpython.org/
 	- https://www.learn-php.org/
+	- https://www.tutorialsteacher.com/
 
 MySql tutorial
 	- https://www.mysqltutorial.org/
