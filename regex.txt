@@ -1,2 +1,6 @@
 Regex vs string parsing - https://stackoverflow.com/questions/11905506/regular-expression-vs-string-parsing
 
+Regex Tutorials
+- https://regexone.com
+- https://www.regular-expressions.info
+- https://regex101.com
