@@ -1,0 +1,8 @@
+Adjusting font size of various panels in Visual Studio 2019 
+
+	Tools \ Options \ Environment \ Fonts and Colors
+
+		Text Editor
+		CodeLens
+		Output Window
+		Environment (fonts for right-side panels)
