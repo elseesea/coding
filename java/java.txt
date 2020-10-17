@@ -1,2 +1,5 @@
 Java objects & classes - https://www.tutorialspoint.com/java/java_object_classes.htm
 
+Prototype Pattern in Java
+
+- https://www.baeldung.com/java-pattern-prototype
