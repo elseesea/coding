@@ -9,4 +9,20 @@
 
 2. Visual studio “inconsistent line endings”
 
-  From https://stackoverflow.com/questions/35104471/visual-studio-inconsistent-line-endings/35104494
+    From https://stackoverflow.com/questions/35104471/visual-studio-inconsistent-line-endings/35104494
+
+
+3. Find all references
+
+    https://stackoverflow.com/questions/52677651/find-all-references-across-files-for-a-method-function-in-vscode-is-not-possib
+
+
+4. Git
+
+    https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
+    https://github.com/github/VisualStudio/blob/master/docs/getting-started/authenticating-to-github.md#:~:text=In%20Visual%20Studio%2C%20select%20Team,link%20in%20the%20GitHub%20section.&text=If%20none%20of%20these%20options,and%20then%20Connect%20to%20GitHub
+
+
+5. Keyboard shortcuts
+
+    https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples

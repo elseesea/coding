@@ -1,0 +1,3 @@
+C# abstract methods classes
+
+    https://www.w3schools.com/cs/cs_abstract.asp

@@ -2,6 +2,38 @@ Four Pillars of Object Oriented Programming
 
     https://info.keylimeinteractive.com/the-four-pillars-of-object-oriented-programming
 
+
 Object Oriented Programming: Objects and Classes - C# 101
 
     https://youtu.be/TzgxcAiHCWA
+
+
+OOP videos by "Mosh"
+
+    https://youtu.be/pTB0EiLXUC8
+    https://youtu.be/NU_1StN5Tkk
+
+
+Understanding SOLID Principles - Single Responsibility
+
+    https://codeburst.io/understanding-solid-principles-single-responsibility-b7c7ec0bf80
+
+
+OOP & Relational Databases - a comparison
+
+    https://www.google.com/search?q=object+oriented+programming+vs+relational+database&tbm=isch
+
+
+Overriding Equals and Hashcode (in Java)
+
+    https://youtu.be/7V3589CReug
+
+
+Interfaces in C#
+
+    https://youtu.be/MZOrGXk4XFI
+
+
+Prototype pattern
+
+    https://www.baeldung.com/java-pattern-prototype

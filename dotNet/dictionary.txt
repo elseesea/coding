@@ -1,0 +1,8 @@
+C# Dictionary class
+
+    https://www.tutorialsteacher.com/csharp/csharp-dictionary
+
+
+Tuple types - C# tuples are data structures you can use to group loosely related data elements
+
+    https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples

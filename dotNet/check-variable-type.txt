@@ -1,0 +1,3 @@
+Ways to check the type of a variable
+
+    https://stackoverflow.com/questions/983030/type-checking-typeof-gettype-or-is

@@ -1,0 +1,5 @@
+Microsoft on NullReferenceException
+
+    https://docs.microsoft.com/en-us/dotnet/api/system.nullreferenceexception?view=netcore-3.1
+    Community discussion:
+      https://social.msdn.microsoft.com/Forums/en-US/0564ade8-59f6-4a7f-8a0c-28b17f334821/why-it-is-not-a-good-practice-to-throw-systemnullexception-or-systemexception?forum=csharplanguage
