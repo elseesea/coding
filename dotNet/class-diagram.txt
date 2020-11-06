@@ -1,5 +1,11 @@
 See 5 videos on class diagramming
-	https://www.youtube.com/playlist?list=PLs5n5nYB22fK7H_y0u65lsssbbD8zGAE8
+
+    https://www.youtube.com/playlist?list=PLs5n5nYB22fK7H_y0u65lsssbbD8zGAE8
 
 Free diagramming website
-	https://app.diagrams.net/
+
+    https://app.diagrams.net/
+
+Another option for class diagrams
+
+    https://docs.microsoft.com/en-us/visualstudio/ide/class-designer/how-to-add-class-diagrams-to-projects?view=vs-2019
