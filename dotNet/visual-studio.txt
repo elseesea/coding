@@ -1,4 +1,4 @@
-Adjusting font size of various panels in Visual Studio 2019 
+1. Adjusting font size of various panels in Visual Studio 2019 
 
 	Tools \ Options \ Environment \ Fonts and Colors
 
@@ -6,3 +6,7 @@ Adjusting font size of various panels in Visual Studio 2019
 		CodeLens
 		Output Window
 		Environment (fonts for right-side panels)
+
+2. Visual studio “inconsistent line endings”
+
+  From https://stackoverflow.com/questions/35104471/visual-studio-inconsistent-line-endings/35104494
