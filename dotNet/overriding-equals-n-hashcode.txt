@@ -1,0 +1,2 @@
+Overriding equals and hashCode in Java (applicable to C#)
+    https://youtu.be/7V3589CReug

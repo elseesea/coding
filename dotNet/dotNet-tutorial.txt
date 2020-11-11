@@ -1,6 +1,3 @@
-Type Checking: typeof, GetType, or is?
-	From https://stackoverflow.com/questions/983030/type-checking-typeof-gettype-or-is
-
 https://dotnet.microsoft.com/learn
 
 C# From Beginner To Pro - Write A WindowsUI Style App Form

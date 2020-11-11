@@ -26,3 +26,7 @@
 5. Keyboard shortcuts
 
     https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples
+
+6. Browser Reload on Save extension
+
+    https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave
