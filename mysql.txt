@@ -1,0 +1,3 @@
+1. MySQL Workbench: A solution to Error Code 1175
+
+    https://bytefreaks.net/programming-2/sql/mysql-workbench-a-solution-to-error-code-1175
