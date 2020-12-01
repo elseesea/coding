@@ -1,6 +1,7 @@
 1. String.Format - formatting strings for output
 
     https://docs.microsoft.com/en-us/dotnet/api/system.string.format?view=net-5.0
+    https://stackoverflow.com/questions/733378/whats-a-good-way-of-doing-string-templating-in-net
 
     Relationship to C/C++ printfs
     https://stackoverflow.com/questions/43707941/what-is-the-c-sharp-equivalent-of-printfs
