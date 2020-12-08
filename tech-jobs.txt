@@ -1,0 +1,18 @@
+1. Getting Organized to Look for Jobs
+
+  * Organize your GitHub and start adding descriptions of what the project is in
+    the "About" section of each repo.
+
+  * For the projects with HTML that aren't in Angular or ASP.NET, try to make a GitHub
+    Pages for them.
+    * For a way to pack your angular project to put Github page, see
+      * https://dzone.com/articles/deploy-angular-app-on-github-pages
+
+  * Clean up Linkedin profile and connect with other LaunchCode folks, visiting speakers
+    and local tech community, etc.
+
+  * Adding a spell checker to VS comments:
+    * https://visualstudiomagazine.com/blogs/tool-tracker/2018/09/spell-check-comments.aspx
+
+  * Writing an awesome tech resume (which could really be applied to any field):
+    * https://www.inc.com/bill-murphy-jr/google-recruiters-say-these-5-resume-tips-including-x-y-z-formula-will-improve-your-odds-of-getting-hired-at-google.html#:~:text=Google%20describes%20this%20as%3A%20%22Accomplished,you%20had%20as%20a%20result
