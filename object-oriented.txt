@@ -37,3 +37,7 @@ Interfaces in C#
 Prototype pattern
 
     https://www.baeldung.com/java-pattern-prototype
+
+Object-Relational Mapping - an Introduction
+
+    https://www.youtube.com/watch?v=dHQ-I7kr_SY
