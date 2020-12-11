@@ -1,0 +1,6 @@
+1. Liftoff group projects information
+
+    Examples:
+
+	https://github.com/LaunchCodeLiftoffProjects
+	https://github.com/LaunchCodeLiftoffProjects/KC-Water-Garden-App
