@@ -25,3 +25,8 @@ Programming Anti-patterns for Beginners - https://youtu.be/lQ_rGCL17EE
 
 Popular coding challenges - https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
 
+Programming Puzzle Exercises - not language specific
+
+    - https://adventofcode.com/2020/about
+    - https://projecteuler.net/
+    - https://www.dailycodingproblem.com/
