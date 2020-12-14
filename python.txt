@@ -23,3 +23,11 @@
 6. Hitchhiker's Guide to Python
 
     https://docs.python-guide.org/
+
+7. Simple Python Version Management: pyenv
+
+    https://github.com/pyenv/pyenv
+
+8. CONDA - Package, dependency and environment management for any language---Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN
+
+    https://docs.conda.io/en/latest/
