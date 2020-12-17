@@ -1,10 +1,35 @@
-SourceTree
+1. SourceTree
 
 	GUI interface to Git
 	But, only for Windows & Mac
 
 
-Git & Visual Studio
+2. Git & Visual Studio
 
     https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
     https://github.com/github/VisualStudio/blob/master/docs/getting-started/authenticating-to-github.md#:~:text=In%20Visual%20Studio%2C%20select%20Team,link%20in%20the%20GitHub%20section.&text=If%20none%20of%20these%20options,and%20then%20Connect%20to%20GitHub
+
+
+3. Branches
+
+    From Launchode textbook (https://education.launchcode.org/intro-to-professional-web-dev/chapters/git/branches.html)
+
+	22.4.2. Creating a New Branch
+
+	    A programmer is on master and they want to start building a new
+	    feature in a new branch. Their first step would be to create a
+	    new branch for their work.
+
+	    To create a branch, the command is
+
+		git checkout -b <branch name>
+
+	    By using this command, not only is a new branch created, but
+	    also the programmer switches to their new branch.
+
+	22.4.3. Switching to an Existing Branch
+
+	    If the branch already exists, the programmer may want to switch
+	    to that branch. To do so, the command is
+
+		git checkout <branch name>
