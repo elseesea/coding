@@ -7,6 +7,7 @@
 		Output Window
 		Environment (fonts for right-side panels)
 
+
 2. Visual studio “inconsistent line endings”
 
     From https://stackoverflow.com/questions/35104471/visual-studio-inconsistent-line-endings/35104494
@@ -27,6 +28,12 @@
 
     https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples
 
+
 6. Browser Reload on Save extension
 
     https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave
+
+
+7. Stop default Autocomplete behavior when hitting spacebar in Visual Studio 2015
+
+    https://stackoverflow.com/questions/32301586/stop-default-autocomplete-behavior-when-hitting-spacebar-in-visual-studio-2015

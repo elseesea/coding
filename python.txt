@@ -1,3 +1,33 @@
 1. Learn R, Python & Data Science Online
 
     https://www.linkedin.com/posts/launchcode_learn-r-python-data-science-online-activity-6735598400252764160-qeiI
+
+2. Automate the Boring Stuff (free python book)
+
+    https://automatetheboringstuff.com/
+
+3. Python coding challenges and exercises with solutions for beginners & advanced
+
+    https://py.checkio.org/
+
+4. Python Tutorials - Real Python
+
+    https://realpython.com/
+
+5. Programming Puzzle Exercises (not Python specific)
+
+    - https://adventofcode.com/2020/about
+    - https://projecteuler.net/
+    - https://www.dailycodingproblem.com/
+
+6. Hitchhiker's Guide to Python
+
+    https://docs.python-guide.org/
+
+7. Simple Python Version Management: pyenv
+
+    https://github.com/pyenv/pyenv
+
+8. CONDA - Package, dependency and environment management for any language---Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN
+
+    https://docs.conda.io/en/latest/

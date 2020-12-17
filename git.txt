@@ -1,15 +1,18 @@
+=======
 1. SourceTree
 
 	GUI interface to Git
 	But, only for Windows & Mac
 
 
+=======
 2. Git & Visual Studio
 
     https://yourbrainoncomputers.com/using-git-with-visual-studio-2019-the-ultimate-guide/#Create_New_Git_Repository
     https://github.com/github/VisualStudio/blob/master/docs/getting-started/authenticating-to-github.md#:~:text=In%20Visual%20Studio%2C%20select%20Team,link%20in%20the%20GitHub%20section.&text=If%20none%20of%20these%20options,and%20then%20Connect%20to%20GitHub
 
 
+=======
 3. Branches
 
     From Launchode textbook (https://education.launchcode.org/intro-to-professional-web-dev/chapters/git/branches.html)
@@ -33,3 +36,10 @@
 	    to that branch. To do so, the command is
 
 		git checkout <branch name>
+
+
+=======
+4. How to rename the "master" branch to "main" in Git
+
+    https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/
+
