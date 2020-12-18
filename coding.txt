@@ -1,3 +1,10 @@
+=======
+School of SRE (Site Reliability Engineers)
+
+    https://linkedin.github.io/school-of-sre/
+
+
+=======
 Free "learn" a language sites
 	- https://www.learn-c.org/
 	- https://www.learn-cpp.org/
@@ -5,26 +12,44 @@ Free "learn" a language sites
 	- https://www.learn-php.org/
 	- https://www.tutorialsteacher.com/
 
+
+=======
 MySql tutorial
 	- https://www.mysqltutorial.org/
 
+
+=======
 Software Development Courses
 	- https://alison.com/courses/software-development
 	- https://www.edx.org/course/subject/computer-science
 	- https://careerkarma.com/blog/best-free-coding-bootcamp-options/
 
+
+=======
 Hack your own CS degree for free - https://www.freecodecamp.org/news/how-to-hack-your-own-cs-degree-for-free/
 
+
+=======
 Your First 30 Days of Web Development - https://www.newline.co/30-days-of-webdev
 
+
+=======
 Why EVERYBODY should learn web scraping (4 reasons) - https://youtu.be/ethHmNMNMdA
 
+
+=======
 Bubble-sort with Hungarian folk dance - https://www.youtube.com/watch?v=lyZQPjUT5B4
 
+
+=======
 Programming Anti-patterns for Beginners - https://youtu.be/lQ_rGCL17EE
 
+
+=======
 Popular coding challenges - https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
 
+
+=======
 Programming Puzzle Exercises - not language specific
 
     - https://adventofcode.com/2020/about
