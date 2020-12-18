@@ -18,6 +18,8 @@ Recursion - https://javascript.info/recursion
 
 Merge sort & recursion - https://medium.com/javascript-in-plain-english/javascript-merge-sort-3205891ac060 & https://stackoverflow.com/questions/19072004/understanding-the-recursion-of-mergesort
 
+Array sort - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
 Beginners tutorial - https://www.bitdegree.org/tutorials/javascript-for-beginners/
 
 Unit testingn - https://medium.com/nonstopio/unit-testing-important-role-in-software-development-1f52f7c810f8
