@@ -32,6 +32,8 @@ Java Script basics js-intro.pdf - see Google Drive
 
 Here Are 10 Projects You Can Do To Build Your JavaScript Skills - https://skillcrush.com/blog/projects-you-can-do-with-javascript/
 
+Build 30 things with vanilla JS in 30 days with 30 tutorials - https://javascript30.com/
+
 Event bubbling - https://dev.to/shimphillip/handing-javascript-events-efficiently-with-bubble-and-capture-4ha5
 
 LaunchCode textbook (to fork & clone to local drive) - https://github.com/LaunchCodeEducation/intro-to-professional-web-dev
