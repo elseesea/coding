@@ -1,18 +1,36 @@
+=======
 1. CSS Selectors Made Easy - https://www.youtube.com/watch?v=dcCCOiQ1ZuM
 
+
+=======
 2. Friendly web development tutorials for complete beginners - https://www.internetingishard.com/
 
+
+=======
 3. Responsive Web Design
 
 	https://www.w3schools.com/html/html_responsive.asp
 
+
+=======
 4. Flexbox
 
 	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 	https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
 
+
+=======
 5. Google fonts
 
 	https://developers.google.com/fonts/docs/getting_started
 
-6. Cool penguin drawn using only CSS
+
+=======
+6. CSS Cheat Sheet
+
+    http://www.lesliefranke.com/files/reference/csscheatsheet.html
+
+=======
+7. Web Developer browser extension
+
+    https://chrispederick.com/work/web-developer/
