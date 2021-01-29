@@ -22,3 +22,8 @@
 8. Angular Change Detection - How Does It Really Work?
 
 	a. https://blog.angular-university.io/how-does-angular-2-change-detection-really-work/
+
+=======
+9. How to Work with Angular and MySQL
+
+    https://developer.okta.com/blog/2019/08/16/angular-mysql-express
