@@ -29,3 +29,9 @@
 3. Finding a job during pandemic
 
     https://youtu.be/RT4WyYpTweA
+
+
+=======
+4. Technical Interview Practice
+
+    https://codesignal.com/developers/interview-practice/
