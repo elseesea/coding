@@ -1,5 +1,18 @@
 https://dotnet.microsoft.com/learn
 
+Get Started with ASP.NET Core MVC
+  https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-3.1
+
+Tutorial: Get started with EF Core in an ASP.NET MVC web app
+  https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro?view=aspnetcore-3.1
+
+Blazor - The Complete Guide (WASM & Server .NET Core 5)
+  * FREE *
+  https://www.udemy.com/course/blazor-the-complete-guide/
+
+Free Udemy with Johnson County, KS library card
+  https://www.jocolibrary.org/elibrary/elearning/udemy
+
 C# From Beginner To Pro - Write A WindowsUI Style App Form
   https://www.udemy.com/course/programming-fundamentals-the-basics-with-c-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-awQKp7N6pHekZjFIDZSO9w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 
@@ -30,3 +43,6 @@ What is new in C# 6
 
 Learn C#
   https://www.learncs.org/
+
+Blazor WebAssembly: A Practical Guide to Full Stack Development With .NET
+  https://code-maze.com/blazor-webassembly-course/
