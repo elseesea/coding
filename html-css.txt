@@ -34,3 +34,8 @@
 7. Web Developer browser extension
 
     https://chrispederick.com/work/web-developer/
+
+=======
+8. Design Course
+
+    www.youtube.com/c/DesignCourse/videos
