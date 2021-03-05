@@ -53,3 +53,8 @@ lit-html - An efficient, expressive, extensible HTML templating library for Java
 2. Axios - Promise based HTTP client for the browser and node.js (AJAX)
 
     https://github.com/axios/axios
+
+=======
+3. LaunchCode WebDev Unit 1 - Extra practice / review
+
+    https://docs.google.com/document/d/1x5QX5HfafZMVA7bkg6h-2C-ZlABO8Z_SRBrnKqJQ8FA/edit#
