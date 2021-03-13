@@ -43,3 +43,9 @@
 
     https://www.git-tower.com/learn/git/faq/git-rename-master-to-main/
 
+
+======
+5. Checkout another branch when there are uncommitted
+   changes on the current branch
+
+    https://stackoverflow.com/questions/22053757/checkout-another-branch-when-there-are-uncommitted-changes-on-the-current-branch
