@@ -49,3 +49,9 @@
    changes on the current branch
 
     https://stackoverflow.com/questions/22053757/checkout-another-branch-when-there-are-uncommitted-changes-on-the-current-branch
+
+
+======
+6. How to reset, revert, and return to previous states in Git
+
+    https://opensource.com/article/18/6/git-reset-revert-rebase-commands
