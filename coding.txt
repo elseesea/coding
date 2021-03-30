@@ -67,3 +67,9 @@ Live Coding practice for Interviews
 Full Stack Web Development - The Odin Project
 
     https://www.theodinproject.com/home
+
+
+=======
+Foundations of Programming
+
+    https://www.openmymind.net/FoundationsOfProgramming.pdf
