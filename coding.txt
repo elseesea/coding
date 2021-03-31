@@ -73,3 +73,9 @@ Full Stack Web Development - The Odin Project
 Foundations of Programming
 
     https://www.openmymind.net/FoundationsOfProgramming.pdf
+
+
+=======
+Frontend Developer: Step by step guide to becoming a modern frontend developer
+
+    https://roadmap.sh/frontend
