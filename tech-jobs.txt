@@ -73,6 +73,10 @@ Facebook: https://join.slack.com/t/launchcodecommunity/shared_invite/zt-jkqu38j9
     j. lamdaschool.com
     k. careerkarma.com (not a bootcamp, but more of a resource of resources)
     l. https://www.skilledkc.org/program/software-development/
+    m. Launchcode, of course, including
+        i. Mainframe PAID training: https://www.launchcode.org/training/mainframe-national-2021
+       ii. Web Development (LC101): https://www.launchcode.org/lc101
+      iii. CodeCamp: https://www.launchcode.org/codecamp
 
 
 =======
