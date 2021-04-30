@@ -77,6 +77,7 @@ Facebook: https://join.slack.com/t/launchcodecommunity/shared_invite/zt-jkqu38j9
         i. Mainframe PAID training: https://www.launchcode.org/training/mainframe-national-2021
        ii. Web Development (LC101): https://www.launchcode.org/lc101
       iii. CodeCamp: https://www.launchcode.org/codecamp
+    n. SnapIt solutions: https://snapit.solutions/trains/
 
 
 =======
