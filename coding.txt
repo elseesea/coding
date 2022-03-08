@@ -84,3 +84,9 @@ Foundations of Programming
 Frontend Developer: Step by step guide to becoming a modern frontend developer
 
     https://roadmap.sh/frontend
+
+
+=======
+How to build a dev knowledge base ahead of your next job
+
+    https://thenextweb.com/news/how-to-build-developer-knowledge-base-ahead-next-job-syndication?fbclid=IwAR2uITahBN83qxnAbBhngWkX2rfHBN0y2wxwWWRNZYD6Oydpz0QED8yW1Ss
