@@ -1,12 +1,4 @@
 =======
-0. Opportunities
-
-  * Crema
-    https://apply.workable.com/cremalab/j/5680630F27/?utm_medium=social_share_link&fbclid=IwAR0cj4O8Zh5vyhOGYT2ZIEtZTv3X_Zf6mpd1SvpJoBSKtAbaNcHSvVfRcKk
-
-  * nbkc.com
-    https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=7fda5c87-512f-4538-a009-52effd9fc43c&ccId=19000101_000001&type=MP&lang=en_US&selectedMenuKey=CurrentOpenings
-=======
 1. Getting Organized to Look for Jobs
 
   * Organize your GitHub and start adding descriptions of what the project is in
