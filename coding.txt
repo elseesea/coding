@@ -3,6 +3,22 @@ The American Dream Academy
 
   https://theamericandreamacademy.org/
 
+MIT OpenCourseWare
+
+  https://ocw.mit.edu/
+
+HTML5 Rocks
+
+  https://www.html5rocks.com/en/
+
+Mozilla Developer Network
+
+  https://developer.mozilla.org/en-US/
+
+A List Apart - for website developers
+
+  https://alistapart.com/
+
 
 =======
 100devs.com
@@ -56,6 +72,11 @@ Bubble-sort with Hungarian folk dance - https://www.youtube.com/watch?v=lyZQPjUT
 =======
 Programming Anti-patterns for Beginners - https://youtu.be/lQ_rGCL17EE
 
+
+=======
+Coding Dojo - Algorithms
+
+  https://algorithm.codingdojo.com/
 
 =======
 Popular coding challenges - https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/
