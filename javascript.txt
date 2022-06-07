@@ -44,6 +44,8 @@ DevGuru JavaScript Quick Reference Guide - https://www.devguru.com/content/techn
 
 lit-html - An efficient, expressive, extensible HTML templating library for JavaScript - https://lit-html.polymer-project.org/guide
 
+https://htmlcheatsheet.com/js/
+
 =======
 1. How to use a variable for a key in a JavaScript object literal?
 
