@@ -1,4 +1,4 @@
-1. Data types.
+1. Data types,
 	From https://www.learn-c.org/en/Variables_and_Types
 	
 	Integers - whole numbers which can be either positive or negative. Use one of the following:
