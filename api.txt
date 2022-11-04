@@ -3,3 +3,9 @@ Tabletop.js - Creating an Editable Webpage With Google Spreadsheets
     and Tabletop.js
 
     https://css-tricks.com/creating-an-editable-webpage-with-google-spreadsheets-and-tabletop-js/
+
+
+=======
+List of Free Public APIs for Developers
+
+  https://rapidapi.com/collection/list-of-free-apis
