@@ -1,3 +1,8 @@
-1. Learn R, Python & Data Science Online
+=======
+1. Courses
 
-    https://www.linkedin.com/posts/launchcode_learn-r-python-data-science-online-activity-6735598400252764160-qeiI
+  01. Learn R, Python & Data Science Online
+      https://www.linkedin.com/posts/launchcode_learn-r-python-data-science-online-activity-6735598400252764160-qeiI
+
+  02. The Open Source Data Science Masters
+      http://datasciencemasters.org/

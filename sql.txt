@@ -1,0 +1,16 @@
+=======
+1. Select Star SQL - an interactive book
+
+  https://selectstarsql.com/
+
+
+=======
+2. SQL Murder Mystery
+
+  https://mystery.knightlab.com/walkthrough.html
+
+
+=======
+3. Draw Entity-Relationship Diagrams - a database design tool
+
+  https://dbdiagram.io/home

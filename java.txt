@@ -1,0 +1,12 @@
+=======
+1. Core Java Cheat Sheet
+
+  https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/
+
+
+=======
+2. Courses
+
+  01. Codecademy - Welcome to Java for Programmers
+      https://www.codecademy.com/courses/java-for-programmers/articles/welcome-to-java-for-programmers
+

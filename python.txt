@@ -31,3 +31,11 @@
 8. CONDA - Package, dependency and environment management for any language---Python, R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN
 
     https://docs.conda.io/en/latest/
+
+9. Learn Python, JavaScript, C, C++, and Java
+
+    https://pythontutor.com/
+
+10. The Python Mega Course is now free on Udemy
+
+    https://www.reddit.com/r/Python/comments/yyi6xv/the_python_mega_course_is_now_free_on_udemy/
