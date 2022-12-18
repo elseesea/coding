@@ -1,0 +1,28 @@
+=======
+DevOps in a Nutshell
+
+  https://youtu.be/w1-SgahfeZA
+
+
+=======
+Courses
+
+  Intro to DevOps course on Coursera by IBM
+
+    https://www.coursera.org/learn/intro-to-devops
+
+  Introduction to DevOps and Site Reliability Engineering
+  
+    https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering
+
+
+=======
+DevOps Exercises
+
+  https://github.com/bregman-arie/devops-exercises
+
+
+=======
+DevOps the Hardway on AWS
+
+  https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS

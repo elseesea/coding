@@ -9,3 +9,9 @@ Tabletop.js - Creating an Editable Webpage With Google Spreadsheets
 List of Free Public APIs for Developers
 
   https://rapidapi.com/collection/list-of-free-apis
+
+
+=======
+Http Status Code
+
+  https://www.infidigit.com/blog/http-status-codes/

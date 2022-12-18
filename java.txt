@@ -10,3 +10,11 @@
   01. Codecademy - Welcome to Java for Programmers
       https://www.codecademy.com/courses/java-for-programmers/articles/welcome-to-java-for-programmers
 
+
+=======
+3. Java Design Patterns
+
+  01. https://www.digitalocean.com/community/tutorials/java-design-patterns-example-tutorial
+
+  02. Proxy design pattern
+      https://www.digitalocean.com/community/tutorials/proxy-design-pattern

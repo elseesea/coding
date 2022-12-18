@@ -132,3 +132,15 @@ Interactive Textbooks hosted by Trinket
 How to build a dev knowledge base ahead of your next job
 
     https://thenextweb.com/news/how-to-build-developer-knowledge-base-ahead-next-job-syndication?fbclid=IwAR2uITahBN83qxnAbBhngWkX2rfHBN0y2wxwWWRNZYD6Oydpz0QED8yW1Ss
+
+
+=======
+The Ultimate Typescript Advent of Code
+
+  https://www.youtube.com/watch?v=2P4N4ihe_lY&feature=youtu.be
+
+  Nx - a build system for mono repos
+    https://github.com/nrwl/nx
+
+  Monorepos
+    https://monorepo.tools/
