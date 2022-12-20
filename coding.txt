@@ -141,6 +141,8 @@ The Ultimate Typescript Advent of Code
 
   Nx - a build system for mono repos
     https://github.com/nrwl/nx
+    https://youtu.be/1eHlaVoeDfU
 
   Monorepos
     https://monorepo.tools/
+    https://youtu.be/1eHlaVoeDfU

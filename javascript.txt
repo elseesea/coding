@@ -64,3 +64,9 @@ https://htmlcheatsheet.com/js/
 3. LaunchCode WebDev Unit 1 - Extra practice / review
 
     https://docs.google.com/document/d/1x5QX5HfafZMVA7bkg6h-2C-ZlABO8Z_SRBrnKqJQ8FA/edit#
+
+
+=======
+4. DOM Geometry geometry
+
+  https://www.smashingmagazine.com/2022/11/document-object-model-geometry-guide/
